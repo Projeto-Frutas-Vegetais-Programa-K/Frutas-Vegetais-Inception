@@ -20,8 +20,11 @@ Este repositório contém o conteúdo e o notebook da rede Inception v3, assim c
 ...
 
 ### Outros links úteis:
-+ [link 1]() - Descrição 1.
-+ [link 2]() - Descrição 2.
++ [CS231n Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/transfer-learning/) - Texto sobre Aprendizado por Transferência
++ [Transfer Learning - Machine Learning's Next Frontier](https://ruder.io/transfer-learning/) - Texto sobre Aprendizado por Transferência
++ [Rethinking the Inception Architecture for Computer Vision](https://arxiv.org/abs/1512.00567) - Artigo da Inception v3
++ [Torchvision Models and pre-trained weights](https://pytorch.org/vision/stable/models.html) - Documentação de modelos do Pytorch
++ [Inception_v3](https://pytorch.org/vision/stable/models/generated/torchvision.models.inception_v3.html#torchvision.models.inception_v3) - Documentação do modelo Inception v3 do Pytorch
 
 ## Nosso Tutorial
 
