@@ -13,6 +13,7 @@ Este repositório contém o conteúdo e o notebook da rede Inception v3, assim c
 
 ### O que é a Inception
 
+A Inception é uma rede única porque tem duas camadas de saída durante o treinamento. A segunda saída é conhecida como uma saída auxiliar e está contida na parte AuxLogits da rede. Já a saída principal é uma camada linear no final do rede. 
 ...
 
 ## Entendendo conceitos fundamentais da Inception:
