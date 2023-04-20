@@ -13,11 +13,11 @@ Este repositório contém o conteúdo e o notebook da rede Inception v3, assim c
 
 ### O que é a Inception
 
-A Inception é uma rede neural convolucional criada pelo Google (veja o artigo "Going Deeper with Convolutions", na seção de Links úteis), também conhecida como GoogLeNet. Essa é uma arquitetura muito famosa, foi a vencedora do torneio “ImageNet Large Scale Visual Recognition Challenge” (ILSVRC) de 2014, e ela se encontra no top 3 menores erros dessa competição:
+A Inception é uma rede neural convolucional criada pelo Google (veja o artigo "Going Deeper with Convolutions", na seção de [Links úteis](https://github.com/Projeto-Frutas-Vegetais-Programa-K/Frutas-Vegetais-Inception/blob/main/README.md#outros-links-úteis)), também conhecida como GoogLeNet. Essa é uma arquitetura muito famosa, foi a vencedora do torneio “ImageNet Large Scale Visual Recognition Challenge” (ILSVRC) de 2014, e ela se encontra no top 3 menores erros dessa competição:
 
 ![top7_torneio_ILSVRC](https://user-images.githubusercontent.com/119753668/233491811-85bbdcd0-230b-4173-8be5-ba773889d1fa.png)
 
-Neste tutorial, utilizamos a versão 3 dessa arquitetura, proposta em 2015 e conhecida como "Inception v3" (veja o artigo "Rethinking the Inception Architecture for Computer Vision", na seção de Links úteis).
+Neste tutorial, utilizamos a versão 3 dessa arquitetura, proposta em 2015 e conhecida como "Inception v3" (veja o artigo "Rethinking the Inception Architecture for Computer Vision", na seção de [Links úteis](https://github.com/Projeto-Frutas-Vegetais-Programa-K/Frutas-Vegetais-Inception/blob/main/README.md#outros-links-úteis)).
 
 ## Entendendo conceitos fundamentais da Inception:
 
