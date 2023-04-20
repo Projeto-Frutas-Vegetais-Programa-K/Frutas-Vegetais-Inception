@@ -1,6 +1,7 @@
 # Frutas-Vegetais-Inception
 
 Notebook colab, utilizando rede inception, resultado do instruction 1 - pesquisa de modelos.
+
 Grupo: Auxílio na tomada de decisão no processo de compra de frutas e vegetais.
 
 ## Introdução
@@ -11,6 +12,7 @@ Para alcançar o nosso objetivo, precisamos obter o conhecimento necessário par
 
 Este repositório contém o conteúdo e o notebook da rede Inception v3, assim como um guia para auxiliar aqueles que estão dando os seus primeiros passos.
 
+
 ### O que é a Inception
 
 A Inception é uma rede neural convolucional criada pelo Google (veja o artigo "Going Deeper with Convolutions", na seção de [Links úteis](https://github.com/Projeto-Frutas-Vegetais-Programa-K/Frutas-Vegetais-Inception/blob/main/README.md#outros-links-úteis)), também conhecida como GoogLeNet. Essa é uma arquitetura muito famosa, foi a vencedora do torneio “ImageNet Large Scale Visual Recognition Challenge” (ILSVRC) de 2014, e ela se encontra no top 3 menores erros dessa competição:
@@ -19,12 +21,14 @@ A Inception é uma rede neural convolucional criada pelo Google (veja o artigo "
 
 Neste tutorial, utilizamos a versão 3 dessa arquitetura, proposta em 2015 e conhecida como "Inception v3" (veja o artigo "Rethinking the Inception Architecture for Computer Vision", na seção de [Links úteis](https://github.com/Projeto-Frutas-Vegetais-Programa-K/Frutas-Vegetais-Inception/blob/main/README.md#outros-links-úteis)).
 
+
 ## Entendendo conceitos fundamentais da Inception:
 
 O principal diferencial dessa rede é o "módulo Inception", que é formado pelo paralelismo e a concatenação de várias convoluções pequenas para reduzir o número de parâmetros. Abaixo uma ilustração desse módulo:
 ![modulo_inception](https://user-images.githubusercontent.com/119753668/233491397-5b2e67fd-8643-43f9-87d6-aa3081e9d0b8.png)
 
 Além disso, a Inception é uma rede única porque tem duas camadas de saída durante o treinamento. A segunda saída é conhecida como uma saída auxiliar e está contida na parte AuxLogits da rede. Já a saída principal é uma camada linear no final do rede. 
+
 
 ### Outros links úteis:
 
@@ -36,8 +40,11 @@ Além disso, a Inception é uma rede única porque tem duas camadas de saída du
 + [Torchvision Models and pre-trained weights](https://pytorch.org/vision/stable/models.html) - Documentação de modelos do Pytorch
 + [Inception_v3](https://pytorch.org/vision/stable/models/generated/torchvision.models.inception_v3.html#torchvision.models.inception_v3) - Documentação do modelo Inception v3 do Pytorch
 
+
 ## Nosso Tutorial
 
 [Inception_v3_Tutorial_+_Case_com_Dataset_Personalizado](https://github.com/Projeto-Frutas-Vegetais-Programa-K/Frutas-Vegetais-Inception/blob/main/Inception_v3_Tutorial_%2B_Case_com_Dataset_Personalizado.ipynb)
+
+## Contato
 
 Se após essas leituras ainda tiver alguma dúvida ou curiosidade sobre o tutorial, não hesite em entrar em contato no seguinte email: <larissarosa@discente.ufg.br>
